@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to JobLeet on JobLeet Docs</title>
+    <link>/</link>
+    <description>Recent content in Welcome to JobLeet on JobLeet Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 10 Oct 2024 16:27:22 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Make Your Resume Stand Out</title>
+      <link>/blog/how-to-make-your-resume-stand-out/</link>
+      <pubDate>Thu, 10 Oct 2024 16:27:22 +0200</pubDate>
+      <guid>/blog/how-to-make-your-resume-stand-out/</guid>
+      <description>When it comes to landing your dream job, your resume is the first impression you make. It’s crucial that your resume not only highlights your experience and skills but also stands out from the crowd.</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>/docs/guides/introduction/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>/docs/guides/introduction/</guid>
+      <description>Welcome to Job Leet, a comprehensive and scalable job portal solution powered by our Job Leet Job Portal API. This API is designed to handle all job-related operations, providing an efficient and easy-to-use platform for managing job listings, applications, users, and much more.</description>
+    </item>
+    <item>
+      <title>apis</title>
+      <link>/docs/reference/apis/</link>
+      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
+      <guid>/docs/reference/apis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>/docs/resources/</link>
+      <pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate>
+      <guid>/docs/resources/</guid>
+      <description>Link to valuable, relevant resources.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
+      <guid>/privacy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
