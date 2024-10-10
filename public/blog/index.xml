@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on JobLeet Docs</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on JobLeet Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Thu, 10 Oct 2024 16:27:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Make Your Resume Stand Out</title>
+      <link>http://localhost:1313/blog/how-to-make-your-resume-stand-out/</link>
+      <pubDate>Thu, 10 Oct 2024 16:27:22 +0200</pubDate>
+      <guid>http://localhost:1313/blog/how-to-make-your-resume-stand-out/</guid>
+      <description>When it comes to landing your dream job, your resume is the first impression you make. It’s crucial that your resume not only highlights your experience and skills but also stands out from the crowd.</description>
+    </item>
+  </channel>
+</rss>
